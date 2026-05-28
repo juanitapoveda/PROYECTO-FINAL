@@ -1,9 +1,10 @@
 # PROYECTO FINAL - Calculadora Científica Graficadora
+### INTEGRANTES : Juanita Poveda Valderrama, Gabriel Martín Gutierrez, Juan Jose Castro Guerrero, Angie Sofia Cueca Machado
 este proyecto esta desarrollado en python con la finalidad de suplir las funcionalidades de una calculadora científica, por lo que busca reolver operaciones matemáticas y adicionalmente graficar funciones. El programa esta diseñado sin librerias externas.
 # Instrucciones de Uso
 1. Descargar la carpeta del proyecto
 2. Abrir la terminal en la carpeta del proyecto
-3. Ejecutar el programa con el comando: python main.py
+3. Ejecutar el programa con el comando: python consola.py (El nombre de  tu archivo principal)
 4. Seguir las instrucciones del programa.
 # Métodos de aproximación 
 ### • Series de Taylor:
