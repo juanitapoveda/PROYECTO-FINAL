@@ -14,7 +14,7 @@ El método de Newton-Raphson fue utilizado para aproximar la raíz cuadrada, ya 
 ### • Regla de 3 (Escalar):
 Este metodo fue utilizado en la graficación para poder escalar el tamaño de la grafica real al de la consola, por lo que se usa una regla de 3 que se encarga de aproximar el tamaño real a el tamaño de la consola.
 # Reflexión
-Durante la creación del programa ocurrieron diversas dificultados, donde destacaron el aprendizaje de metodos de aproximación y la creación de la graficadora, ya que ebiamos empezar desde 0 y aprender algoritmos un poco complejos, finalmente superar estos retos nos dejo claro que el analisis de problemas y aprendizaje de nuevos algoritmos son esenciales para poder implementarlos en un futuro y facilitar la creación de nuevos proyectos en un futuro.
+Durante la creación del programa ocurrieron diversas dificultados, donde destacaron el aprendizaje de metodos de aproximación y la creación de la graficadora, ya que debiamos empezar desde 0 y aprender algoritmos un poco complejos, finalmente superar estos retos nos dejo claro que el analisis de problemas y aprendizaje de nuevos algoritmos son esenciales para poder implementarlos en un futuro y facilitar la creación de nuevos proyectos.
 # FUNCIONALIDADES
 ## Operaciones básicas:
 •Suma
